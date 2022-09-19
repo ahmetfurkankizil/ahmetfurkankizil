@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Ahmet Furkan KIZIL and I'm a freshman at Bilkent University in Computer Engineering department. I will be taking Java courses this year. 
 <!--
 **ahmetfurkankizil/ahmetfurkankizil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
